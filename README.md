@@ -14,6 +14,4 @@ html5
 javascript
 vanilla
 
-Try it out:
 
-www.byte-me.online
